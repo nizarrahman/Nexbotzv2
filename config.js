@@ -52,7 +52,7 @@ global.nameown = 'Nizar'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281386945391', 'NexEp', true]
+  ['6281386945391', 'Nizar', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
