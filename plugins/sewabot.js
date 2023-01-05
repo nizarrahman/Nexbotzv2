@@ -5,7 +5,7 @@ let sh = '5'
 let sn = '15'
 let ss = '20'
 let sp = '35'
-let sv = '40'
+let sv = '50'
 //premium
 let ph = '5'
 let pn = '15'
@@ -20,6 +20,8 @@ let info = `
 ┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_                                         
 ┊⫹⫺ *permanen:* = _${sv}k/grup (unlimited)_
+┊
+┊*Note! Tambah gc Selec dan Bayar Pake pulsa tambah 5k*
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
@@ -28,8 +30,8 @@ let info = `
 ┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
 ╰═┅═━––––––๑
 ╭━━━━「 *PERPANJANG SEWA* 」
-┊⫹⫺ *Hemat:* _3k (7 Hari)_
-┊⫹⫺ *Normal:* _6k (1 bulan)_                                       
+┊⫹⫺ *Hemat:* _5k (7 Hari)_
+┊⫹⫺ *Normal:* _10k (1 bulan)_                                       
 ╰═┅═━––––––๑
 ╭━━━━「 *PERPANJANG PREMIUM* 」
 ┊⫹⫺ *Hemat:* _3k (7 Hari)_
@@ -53,10 +55,9 @@ let info = `
 _Total Fitur:_ 570++
 
 *⫹⫺ PAYMENT:*
-• *Dana:*
 • *Gopay:*
-• *Ovo:*
-• *QRIS*
+• *Pulsa:*
+• *Bca*
 • *ALL PAYMENT*
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
