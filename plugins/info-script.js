@@ -4,23 +4,20 @@ let text = `*SYARAT & KETENTUAN*
     
 
 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Jangan salah gunakan script ini!
-3. Jangan lupa Subscribe Youtube
-4. Jangan di per jual belikan
-• Jika ada eror di sc hub https://wa.me/628812743180
+1. Follow Dulu Instagram gw nizarrrahman.f_ dan nai_developer
+2. Kirim Ss bukti Dah Follow 
+3. Jangan di per jual belikan
+4. Chat Owner untuk meminta sc
+• Jika ada eror di sc hub https://wa.me/6281386945391
 
 --------Thanks to ✨---------
 Allah SWT
 My parents
 All Friends
-All Contributors
-All Creator Bot
-Adiwajshing
-Nurutomo
-BochilGaming`
+My Team
+`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/628812743180'}},
+    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6281386945391?text=Assalamualaikum+bang+minta+sc'}},
 ]
 let tm = {
 text: text,
